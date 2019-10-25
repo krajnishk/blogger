@@ -1,0 +1,1 @@
+This is a Django Blog Application developed in Python 3.7.4 and Django 2.2.6
